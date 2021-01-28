@@ -1,4 +1,4 @@
-# Intro to APIs with JavaScript
+# Intro to APIs with JavaScript 🐶
 
 * [x] Setup the client
 * [x] Make an API request with javascript
